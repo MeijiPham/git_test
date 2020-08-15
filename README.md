@@ -1,0 +1,1 @@
+This is Meiji's first git project
